@@ -104,17 +104,20 @@ function login(){
 
 	if (code == "010923"){
 		window.location = "main.html";
-	} else if (code == "pingazo") {
+	}
+	if (code == "pingazo") {
 		window.location = "main.html";
-	} else if (code == "serdeluz") {
+	}
+	if (code == "serdeluz") {
 		window.location = "main.html";
-	} else if (code == "carpincho") {
+	}
+	if (code == "carpincho") {
 		window.location = "main.html";
-	} else if (code == "aberroncholado") {
+	}
+	if (code == "aberroncholado") {
 		window.location = "main.html";
-	} else if (code == "lacuadraturadelcirculo") {
+	}
+	if (code == "lacuadraturadelcirculo") {
 		window.location = "main.html";
-	} else {
-		alert("Código Erróneo");
 	}
 }
