@@ -104,13 +104,13 @@ function login(){
 
 	if (code == "010923"){
 		window.location = "main.html";
-	} if else (code == "serdeluz") {
+	} else if (code == "serdeluz") {
 		window.location = "main.html";
-	} if else (code == "carpincho") {
+	} else if (code == "carpincho") {
 		window.location = "main.html";
-	} if else (code == "aberroncholado") {
+	} else if (code == "aberroncholado") {
 		window.location = "main.html";
-	} if else (code == "lacuadraturadelcirculo") {
+	} else if (code == "lacuadraturadelcirculo") {
 		window.location = "main.html";
 	} else {
 		alert("Código Erróneo");
