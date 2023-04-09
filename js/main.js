@@ -104,7 +104,7 @@ function login(){
 
 	if (code == "010923"){
 		window.location = "main.html";
-	} else if (code == serdeluz) {
+	} else if (code == "serdeluz") {
 		window.location = "main.html";
 	} else if (code == "carpincho") {
 		window.location = "main.html";
