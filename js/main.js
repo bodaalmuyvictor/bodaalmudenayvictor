@@ -101,8 +101,16 @@
 
 function login(){
 	var code = document.getElementById("codigo").value;
-	
+
 	if (code == "010923"){
+		window.location = "main.html";
+	} if else (code == "serdeluz") {
+		window.location = "main.html";
+	} if else (code == "carpincho") {
+		window.location = "main.html";
+	} if else (code == "aberroncholado") {
+		window.location = "main.html";
+	} if else (code == "lacuadraturadelcirculo") {
 		window.location = "main.html";
 	} else {
 		alert("Código Erróneo");
